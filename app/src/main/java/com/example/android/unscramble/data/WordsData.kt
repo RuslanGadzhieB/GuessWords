@@ -1,5 +1,3 @@
-
-
 package com.example.android.unscramble.data
 
 const val MAX_NO_OF_WORDS = 10
@@ -186,5 +184,8 @@ val allWords: Set<String> =
         "zigzag",
         "zoology",
         "zone",
-        "zeal"
+        "zeal",
+        "hello",
+        "google",
+        "Wrong",
     )

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessWords</string>
+    <string name="instructions">Расшифруйте слово, используя все буквы.</string>
+    <string name="skip">Пропустить</string>
+    <string name="submit">Ответить</string>
+    <string name="score">Счёт: %d</string>
+    <string name="word_count">%d из 10 слов</string>
+    <string name="enter_your_word">Введите слово</string>
+    <string name="congratulations">Поздравляем!</string>
+    <string name="you_scored">"Вы набрали: %d"</string>
+    <string name="exit">Выход</string>
+    <string name="play_again">Играть снова</string>
+    <string name="wrong_guess">Неверное слово!</string>
+</resources>
